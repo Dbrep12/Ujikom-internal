@@ -1,3 +1,9 @@
+# ujikom internal
+tema restoran, ada Home, Menu, Contact di navbar.
+di halaman home bisa melihat restorannya seperti apa, tentang restoran tersebut, promo, menu populer, dan footer.
+di halaman menu bisa melihat makanan di restoran tersebut.
+di halaman contact bisa kontak pihak restoran tersebut lewat media sosial dan lokasi restoran tersebut
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
