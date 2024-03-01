@@ -1,5 +1,5 @@
 # ujikom internal
-tema restoran, ada Home, Menu, Contact di navbar.
+tema kuliner, saya menggunakan library AOS dan react slideshow image untuk animasi webnya. ada Home, Menu, Contact di navbar.
 di halaman home bisa melihat restorannya seperti apa, tentang restoran tersebut, promo, menu populer, dan footer.
 di halaman menu bisa melihat makanan di restoran tersebut.
 di halaman contact bisa kontak pihak restoran tersebut lewat media sosial dan lokasi restoran tersebut
