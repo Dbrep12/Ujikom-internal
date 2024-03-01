@@ -1,0 +1,46 @@
+{
+    "post": [
+      {
+        "id": "2jhj",
+        "img": "https://th.bing.com/th/id/OIP.GCXkoae73bEv09lMQ5DIGgAAAA?rs=1&pid=ImgDetMain",
+        "nama": "Mie Goreng",
+        "price": 20000,
+        "type": "makanan"
+      },
+      {
+        "id": "2ew",
+        "img": "https://th.bing.com/th/id/R.87c5ee620f4c009455b7b9ed432b53c0?rik=FsRcmf0OeEjbXA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-D20UDlCyX-Q%2fUrYxvHm1D7I%2fAAAAAAAAAys%2fCsgUhrPlc8w%2fs1600%2fseafood%2bfried%2brice%2b(%2bnasi%2bgoreng%2bseafood%2b)%2bindonesian%2brecipes.Jpeg&ehk=uhohbR%2bQU7kPMeEdSIX75tNNK3b5nXkulyXt9TgsjOQ%3d&risl=&pid=ImgRaw&r=0",
+        "nama": "Nasi Goreng Seafood",
+        "price": 20000,
+        "type": "makanan"
+      },
+      {
+        "id": "3",
+        "img": "https://th.bing.com/th/id/OIP.IFTR-_9Eb2f0wV-fRyMhlgHaFN?rs=1&pid=ImgDetMain",
+        "nama": "Soto",
+        "price": 24000,
+        "type": "makanan"
+      },
+      {
+        "id": "3asd2",
+        "img": "https://i1.wp.com/resepkoki.id/wp-content/uploads/2017/04/Resep-Sate-kambing.jpg?w=2580&ssl=1",
+        "nama": "Sate",
+        "price": 24000,
+        "type": "makanan"
+      },
+      {
+        "id": "3asda",
+        "img": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2018/08/13/129257767.jpg",
+        "nama": "Kwetiaw",
+        "price": 24000,
+        "type": "makanan"
+      },
+      {
+        "id": "2a",
+        "img": "https://www.masakapahariini.com/wp-content/uploads/2020/02/kumpulan-resep-nasi-goreng.jpg",
+        "nama": "Nasi Goreng",
+        "price": 20000,
+        "type": "makanan"
+      }
+    ]
+  }
